@@ -1,6 +1,5 @@
 # ESP32S3-emoji-by-drawing-expression-LVGL
-[Zhou]
-[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")  
+[Tim]
 使用Esp32s3-1.85c套件利用lvgl显示表情测试，实现了绘制表情、随机时间间隔眨眼、概率连续双眨眼。<br>
 <img width="510" height="556" alt="image" src="https://github.com/user-attachments/assets/417b158c-1191-4be2-9f00-189ab3d1d77d" /><br>
 *操作步骤<br>
