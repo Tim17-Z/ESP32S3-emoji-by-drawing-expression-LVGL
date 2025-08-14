@@ -1,6 +1,6 @@
 # ESP32S3-emoji-by-drawing-expression-LVGL
 [Tim]
-使用Esp32s3-1.85c套件利用lvgl显示表情测试，实现了绘制表情、随机时间间隔眨眼、概率连续双眨眼。<br>
+* 简介<br>使用Esp32s3-1.85c套件利用lvgl显示表情测试，实现了绘制表情、随机时间间隔眨眼、概率连续双眨眼。<br>
 <img width="510" height="556" alt="image" src="https://github.com/user-attachments/assets/417b158c-1191-4be2-9f00-189ab3d1d77d" /><br>
 * 操作步骤<br>
 1.获取源文件，套件源项目链接：https://files.waveshare.net/wiki/ESP32-S3-Touch-LCD-1.85C/ESP32-S3-Touch-LCD-1.85C-Demo.zip<br>
